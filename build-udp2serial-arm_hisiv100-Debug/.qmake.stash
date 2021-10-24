@@ -1,0 +1,14 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/arm-hisiv300-linux-uclibcgnueabi/include/c++/4.8.3 \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/arm-hisiv300-linux-uclibcgnueabi/include/c++/4.8.3/arm-hisiv300-linux-uclibcgnueabi \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/arm-hisiv300-linux-uclibcgnueabi/include/c++/4.8.3/backward \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/lib/gcc/arm-hisiv300-linux-uclibcgnueabi/4.8.3/include \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/lib/gcc/arm-hisiv300-linux-uclibcgnueabi/4.8.3/include-fixed \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/arm-hisiv300-linux-uclibcgnueabi/include \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/target/usr/include
+QMAKE_DEFAULT_LIBDIRS = \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/lib/gcc/arm-hisiv300-linux-uclibcgnueabi/4.8.3 \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/lib/gcc \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/arm-hisiv300-linux-uclibcgnueabi/lib \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/target/lib \
+    /opt/hisi-linux/x86-arm/arm-hisiv300-linux/target/usr/lib
